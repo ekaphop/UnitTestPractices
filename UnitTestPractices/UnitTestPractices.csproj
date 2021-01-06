@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'UnitTestPractice' " />
+  <ItemGroup>
+    <Folder Include="DTO\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Data\" />
+    <Folder Include="BSL\" />
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+</Project>
