@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suaz\\Source\\Repos\\UnitTestPractices\\UnitTestPractices\\UnitTestPractices.csproj": {}
+    "C:\\Users\\suaz\\source\\repos\\UnitTestPractices\\UnitTestPractices\\UnitTestPractices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suaz\\Source\\Repos\\UnitTestPractices\\UnitTestPractices\\UnitTestPractices.csproj": {
+    "C:\\Users\\suaz\\source\\repos\\UnitTestPractices\\UnitTestPractices\\UnitTestPractices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suaz\\Source\\Repos\\UnitTestPractices\\UnitTestPractices\\UnitTestPractices.csproj",
+        "projectUniqueName": "C:\\Users\\suaz\\source\\repos\\UnitTestPractices\\UnitTestPractices\\UnitTestPractices.csproj",
         "projectName": "UnitTestPractices",
-        "projectPath": "C:\\Users\\suaz\\Source\\Repos\\UnitTestPractices\\UnitTestPractices\\UnitTestPractices.csproj",
+        "projectPath": "C:\\Users\\suaz\\source\\repos\\UnitTestPractices\\UnitTestPractices\\UnitTestPractices.csproj",
         "packagesPath": "C:\\Users\\suaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suaz\\Source\\Repos\\UnitTestPractices\\UnitTestPractices\\obj\\",
+        "outputPath": "C:\\Users\\suaz\\source\\repos\\UnitTestPractices\\UnitTestPractices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

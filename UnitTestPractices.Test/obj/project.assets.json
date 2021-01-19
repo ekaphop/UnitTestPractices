@@ -6184,11 +6184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suaz\\Source\\Repos\\UnitTestPractices\\UnitTestPractices.Test\\UnitTestPractices.Test.csproj",
+      "projectUniqueName": "C:\\Users\\suaz\\source\\repos\\UnitTestPractices\\UnitTestPractices.Test\\UnitTestPractices.Test.csproj",
       "projectName": "UnitTestPractices.Test",
-      "projectPath": "C:\\Users\\suaz\\Source\\Repos\\UnitTestPractices\\UnitTestPractices.Test\\UnitTestPractices.Test.csproj",
+      "projectPath": "C:\\Users\\suaz\\source\\repos\\UnitTestPractices\\UnitTestPractices.Test\\UnitTestPractices.Test.csproj",
       "packagesPath": "C:\\Users\\suaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suaz\\Source\\Repos\\UnitTestPractices\\UnitTestPractices.Test\\obj\\",
+      "outputPath": "C:\\Users\\suaz\\source\\repos\\UnitTestPractices\\UnitTestPractices.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6210,8 +6210,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\suaz\\Source\\Repos\\UnitTestPractices\\UnitTestPractices\\UnitTestPractices.csproj": {
-              "projectPath": "C:\\Users\\suaz\\Source\\Repos\\UnitTestPractices\\UnitTestPractices\\UnitTestPractices.csproj"
+            "C:\\Users\\suaz\\source\\repos\\UnitTestPractices\\UnitTestPractices\\UnitTestPractices.csproj": {
+              "projectPath": "C:\\Users\\suaz\\source\\repos\\UnitTestPractices\\UnitTestPractices\\UnitTestPractices.csproj"
             }
           }
         }

@@ -30,7 +30,6 @@ namespace UnitTestPractices.Test
         {
             var controller = new CustomerProfileController(logger.Object, customer);
             var result = controller.Customer(cusId);
-            //Assert.NotNull(result);
             Assert.IsType<OkObjectResult>(result);
         }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RRgONfnxUutBQN70vAuH4H2AWfD8iHjT6aLZzVopl62W7P+CKgevVtrU6z+DfL1saeB4YPUCc8FEpKthdc5lDw==",
+  "dgSpecHash": "TZG5jGzMPRndyff2cUxOSCC+MnP16WTLeImLX2o2YiawTw7kpbtf7SxhPmMm0c9KiqxXFjb/KvyZbStH/JRW4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suaz\\Source\\Repos\\UnitTestPractices\\UnitTestPractices.Test\\UnitTestPractices.Test.csproj",
+  "projectFilePath": "C:\\Users\\suaz\\source\\repos\\UnitTestPractices\\UnitTestPractices.Test\\UnitTestPractices.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suaz\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\suaz\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
